@@ -2,3 +2,6 @@ screenshots/
 .DS_Store
 node_modules/
 research/
+tools/*.log
+tools/*.out
+test/*.out
