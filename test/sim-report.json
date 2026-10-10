@@ -1,0 +1,257 @@
+[
+ {
+  "name": "2人 第2版 weak vs normal",
+  "games": 1000,
+  "rate": {
+   "normal": {
+    "win": 77.2,
+    "seats": 1
+   },
+   "weak": {
+    "win": 22.8,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 6.85,
+  "spyBonusPerGame": 6.85,
+  "sec": 1,
+  "msPerGame": 1
+ },
+ {
+  "name": "2人 第2版 weak vs strong",
+  "games": 1000,
+  "rate": {
+   "strong": {
+    "win": 80.3,
+    "seats": 1
+   },
+   "weak": {
+    "win": 19.8,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 6.89,
+  "spyBonusPerGame": 6.89,
+  "sec": 1.1,
+  "msPerGame": 1
+ },
+ {
+  "name": "2人 第2版 weak vs ultra",
+  "games": 300,
+  "rate": {
+   "ultra": {
+    "win": 86.2,
+    "seats": 1
+   },
+   "weak": {
+    "win": 13.8,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 6.73,
+  "spyBonusPerGame": 6.73,
+  "sec": 113.7,
+  "msPerGame": 379
+ },
+ {
+  "name": "2人 第2版 normal vs strong",
+  "games": 1000,
+  "rate": {
+   "strong": {
+    "win": 60.6,
+    "seats": 1
+   },
+   "normal": {
+    "win": 39.4,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 7.17,
+  "spyBonusPerGame": 7.17,
+  "sec": 1.1,
+  "msPerGame": 1
+ },
+ {
+  "name": "2人 第2版 normal vs ultra",
+  "games": 300,
+  "rate": {
+   "ultra": {
+    "win": 70.3,
+    "seats": 1
+   },
+   "normal": {
+    "win": 29.7,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 6.89,
+  "spyBonusPerGame": 6.89,
+  "sec": 111.9,
+  "msPerGame": 373
+ },
+ {
+  "name": "2人 第2版 strong vs ultra",
+  "games": 300,
+  "rate": {
+   "ultra": {
+    "win": 63.8,
+    "seats": 1
+   },
+   "strong": {
+    "win": 36.2,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 7.02,
+  "spyBonusPerGame": 7.02,
+  "sec": 107.6,
+  "msPerGame": 359
+ },
+ {
+  "name": "3人 第2版 ultra×1 vs strong×2",
+  "games": 240,
+  "rate": {
+   "ultra": {
+    "win": 52.1,
+    "seats": 1
+   },
+   "strong": {
+    "win": 47.9,
+    "seats": 2
+   }
+  },
+  "fair": 33.3,
+  "roundsPerGame": 6.42,
+  "spyBonusPerGame": 6.42,
+  "sec": 228.4,
+  "msPerGame": 952
+ },
+ {
+  "name": "4人 第2版 ultra×1 vs strong×3",
+  "games": 240,
+  "rate": {
+   "ultra": {
+    "win": 45.2,
+    "seats": 1
+   },
+   "strong": {
+    "win": 54.8,
+    "seats": 3
+   }
+  },
+  "fair": 25,
+  "roundsPerGame": 5.51,
+  "spyBonusPerGame": 5.51,
+  "sec": 297.7,
+  "msPerGame": 1240
+ },
+ {
+  "name": "6人 第2版 ultra×1 vs strong×5",
+  "games": 160,
+  "rate": {
+   "ultra": {
+    "win": 30.3,
+    "seats": 1
+   },
+   "strong": {
+    "win": 69.7,
+    "seats": 5
+   }
+  },
+  "fair": 16.7,
+  "roundsPerGame": 5.02,
+  "spyBonusPerGame": 5.02,
+  "sec": 241.1,
+  "msPerGame": 1507
+ },
+ {
+  "name": "4人 クラシック ultra×1 vs strong×3",
+  "games": 200,
+  "rate": {
+   "ultra": {
+    "win": 35.3,
+    "seats": 1
+   },
+   "strong": {
+    "win": 64.8,
+    "seats": 3
+   }
+  },
+  "fair": 25,
+  "roundsPerGame": 8.79,
+  "spyBonusPerGame": 8.79,
+  "sec": 186.7,
+  "msPerGame": 934
+ },
+ {
+  "name": "2人 はじまり ultra vs strong",
+  "games": 300,
+  "rate": {
+   "ultra": {
+    "win": 60.7,
+    "seats": 1
+   },
+   "strong": {
+    "win": 39.3,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 3.29,
+  "spyBonusPerGame": 3.29,
+  "sec": 23.1,
+  "msPerGame": 77
+ },
+ {
+  "name": "2人 はじまり strong vs normal",
+  "games": 1000,
+  "rate": {
+   "strong": {
+    "win": 54.5,
+    "seats": 1
+   },
+   "normal": {
+    "win": 45.5,
+    "seats": 1
+   }
+  },
+  "fair": 50,
+  "roundsPerGame": 3.3,
+  "spyBonusPerGame": 3.3,
+  "sec": 0.3,
+  "msPerGame": 0
+ },
+ {
+  "name": "6人 第2版 混成 weak/normal/strong/ultra/normal/strong",
+  "games": 180,
+  "rate": {
+   "weak": {
+    "win": 5.8,
+    "seats": 1
+   },
+   "normal": {
+    "win": 27.5,
+    "seats": 2
+   },
+   "strong": {
+    "win": 33.6,
+    "seats": 2
+   },
+   "ultra": {
+    "win": 33.1,
+    "seats": 1
+   }
+  },
+  "fair": 16.7,
+  "roundsPerGame": 4.93,
+  "spyBonusPerGame": 4.93,
+  "sec": 268.4,
+  "msPerGame": 1491
+ }
+]

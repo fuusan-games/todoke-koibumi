@@ -1,0 +1,13 @@
+2人 第2版 weak vs normal（1000戦, 1秒）: normal 77.2% / weak 22.8%  均等=50%  平均6.85R
+2人 第2版 normal vs strong（1000戦, 1.1秒）: strong 60.6% / normal 39.4%  均等=50%  平均7.17R
+2人 第2版 weak vs strong（1000戦, 1.1秒）: strong 80.3% / weak 19.8%  均等=50%  平均6.89R
+2人 第2版 strong vs ultra（300戦, 107.6秒）: ultra 63.8% / strong 36.2%  均等=50%  平均7.02R
+2人 第2版 normal vs ultra（300戦, 111.9秒）: ultra 70.3% / normal 29.7%  均等=50%  平均6.89R
+2人 はじまり strong vs normal（1000戦, 0.3秒）: strong 54.5% / normal 45.5%  均等=50%  平均3.3R
+2人 第2版 weak vs ultra（300戦, 113.7秒）: ultra 86.2% / weak 13.8%  均等=50%  平均6.73R
+2人 はじまり ultra vs strong（300戦, 23.1秒）: ultra 60.7% / strong 39.3%  均等=50%  平均3.29R
+4人 クラシック ultra×1 vs strong×3（200戦, 186.7秒）: ultra 35.3% / strong 64.8%(3席合計)  均等=25%  平均8.79R
+3人 第2版 ultra×1 vs strong×2（240戦, 228.4秒）: ultra 52.1% / strong 47.9%(2席合計)  均等=33.3%  平均6.42R
+6人 第2版 ultra×1 vs strong×5（160戦, 241.1秒）: ultra 30.3% / strong 69.7%(5席合計)  均等=16.7%  平均5.02R
+4人 第2版 ultra×1 vs strong×3（240戦, 297.7秒）: ultra 45.2% / strong 54.8%(3席合計)  均等=25%  平均5.51R
+6人 第2版 混成 weak/normal/strong/ultra/normal/strong（180戦, 268.4秒）: weak 5.8% / normal 27.5%(2席合計) / strong 33.6%(2席合計) / ultra 33.1%  均等=16.7%  平均4.93R
