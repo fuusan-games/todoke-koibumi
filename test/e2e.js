@@ -1,5 +1,5 @@
 // E2E: とどけ！こいぶみ — ひとり用（390×844・アストラウルトラ）、375×667、ホスト＋参加者のオンライン（PeerJS＋ローカルSTUN）
-// usage: node test/stun-server.js <box-ip> 3478 &  python3 -m http.server 8931 &  node test/e2e.js <box-ip> 8931
+// usage: node test/stun.js <box-ip> 3478 &  python3 -m http.server 8931 &  node test/e2e.js <box-ip> 8931
 const { chromium } = require('/workspace/hayaoshi-quiz/node_modules/playwright-core');
 const IP = process.argv[2] || '172.30.0.2', PORT = process.argv[3] || 8931;
 const ROOT = `http://localhost:${PORT}/index.html`;

@@ -19,6 +19,6 @@
 node test/logic.test.js          # ルール・漏れ防止・AI の公平さ（127件）
 node test/sim.js                 # CPU 同士の勝率（並列、数分かかります）→ test/sim-report.json
 node tools/train.js 60 6000      # β と「強い」の重みの調整 → weights.js
-node test/stun-server.js <ip> 3478 & python3 -m http.server 8931 &
+node test/stun.js <ip> 3478 & python3 -m http.server 8931 &
 node test/e2e.js <ip> 8931       # 画面のテスト（ひとり用 390×844／375×667、オンライン2画面）→ screenshots/
 ```
